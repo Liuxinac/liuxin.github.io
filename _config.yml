@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "LIU Xin"
 description              : "PhD Candidate of Clinical Medicine Research, Imperial College London, UK"
-repository               : "Liuxin.github.io"
+repository               : "Liuxinac"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "LIU Xin (Freddie)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Imperial College London"
+  bio              : "Focus on Infectious disease epidemiology"
   location         : "London, UK"
-  employer         :
+  employer         :"Imperial College London"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ltfSar0AAAAJ"
   email            : "xin.liu125@imperial.ac.uk"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
