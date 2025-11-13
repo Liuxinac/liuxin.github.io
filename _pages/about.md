@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Xin Liu"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,42 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a first-year PhD student at Imperial College London, supervised by Dr. Tara Mangal and Professor Timothy Hallett.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research integrates machine learning, modeling, and health, with a particular focus on infectious disease. I have been committed to the prevention and control of infectious diseases, including sexually transmitted infections (HIV, HPV), respiratory infections (COVID-19, tuberculosis), and the screening and control of poliomyelitis. I am also deeply interested in research related to mental health and behavioral medicine.
+
+My recent work centers on infectious disease modeling and explores the application of artificial intelligence and machine learning to disease screening and prediction. If you are interested in collaborating or discussing potential projects, please feel free to contact me by email.
+
+I have published 10+ papers at the peer review journal with total <a href='https://scholar.google.com/citations?user=ltfSar0AAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ltfSar0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉 Enrolled in Imperial College London as the PhD student. 
+- *2025.06*: &nbsp;🎉 Graduated as an Outstanding graduate of Beijing. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Study on the Willingness for Human Papillomavirus Testing among Men who have sex with men in China]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Advisors: Prof. Xiaoyou Su (PUMC) & Prof. Shenglan Tang (Duke University)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- • Led a mixed-methods study as the principal investigator to investigate the coverage and the willingness of HPV testing among MSM in China, and using the Information-Motivation-Behavioral Skills (IMB) model to explore influencing factors.
+• Investigated MSM preferences for HPV testing services and assessed the feasibility of offering HPV testing through community organizations.
+• Developed the study protocol, conducted data collection and analysis, and contributed to manuscript writing.. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A Digital Health Intervention on Healthy Behaviors Among Men Who Have Sex with Men in China Based on Information-Motivation-Behavioral Skills Model: An Exploratory Real-World Study](https://www.tandfonline.com/doi/full/10.1080/19317611.2025.2547308), Zhenwei Dai, **Xin liu**, Xiaoyang Liu, **International Journal of Sexual Health**
+- [Uptake and hesitancy of the second booster dose of COVID-19 vaccine among the general population in China after the surge period of the COVID-19 pandemic: a large-scale national study]((https://link.springer.com/article/10.1186/s12889-025-21691-x)),  **Xin liu**, Xiaoyou Su, Youlin Qiao, **BMC Public Health**
+- [Characteristics and influencing factors of anticipated HIV stigma among HIV-negative/unknown MSM in China: A regression mixture model]([https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.3472), Zhenwei Dai, Yijin Wu, **Xin liu**, **AIDS and Behavior**
+- [COVID-19 Vaccine Hesitancy Among People Living with HIV: A Systematic Review and Meta-Analysis]([https://link.springer.com/article/10.1007/s10461-024-04344-9),  **Xin liu**, Shenglan Tang, Xiaoyou Su, **AIDS and Behavior**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* Outstanding graduate of Beijing. 
+- *2024.10* Outstanding student of Peking Union Medical College.
+- *2024.10* First-Class Academic Scholarship of Peking Union Medical College (Top 8%).
+- *2024.10* Roche Scholarship.
+- *2024.01* International Health Exchange and Cooperation Center NHC PRC - Illumina Public Health Education Scholarship.
+- *2023.10* Second-Class Academic Scholarship of Peking Union Medical College (Top 12%), 2023.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10 - (now)*, Imperial College London, London, UK. 
+- *2022.09 - 2025.06*, Chinese Academy of Medical Sciences & Peking Union Medical College (Tsinghua University), Beijing, China
+- *2017.09 - 2021.06*, Guangzhou Medical University, Guangzhou, China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.04*, "COVID - 19 vaccine hesitancy among people living with HIV: a systematic review and meta -analysis" Behavioral Health Branch of Chinese Preventive Medicine Association (Oral presentation). 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.03 - 2024.09*, [China Medical Board](https://cmbfound.org/), Beijing, China.
+- *2023.03 - 2024.09*, [Sino-French Hoffman Institute](https://sfhi.gzhmu.edu.cn/en/index.htm), Guangzhou, China.
