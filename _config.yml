@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "LIU Xin"
-description              : "PhD Candidate of Clinical Medicine Research, Imperial College London, UK"
+description              : "PhD Candidate of Clinical Medicine Research"
 repository               : "Liuxinac"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "LIU Xin (Freddie)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Focus on Infectious disease epidemiology"
-  location         : "London, UK"
   employer         : "Imperial College London"
+  location         : "London, UK"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ltfSar0AAAAJ"
   email            : "xin.liu125@imperial.ac.uk"
